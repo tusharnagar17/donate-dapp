@@ -47,9 +47,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project 
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/tusharnagar17/donate-dapp)
+[![Product Name Screen Shot][product-screenshot]](https://donate-dapp.vercel.app/)
 
-## [Live Project Link 🚀](https://github.com/tusharnagar17/donate-dapp)
+## [Live Project Link 🚀](https://donate-dapp.vercel.app/)
 
 ### Built With
 
